@@ -7,5 +7,5 @@ function navigate(sectionId) {
 
 
 function leerMas() {
-    // Aquí va la lógica para leer más información
+    // la logica va aqi 
 }

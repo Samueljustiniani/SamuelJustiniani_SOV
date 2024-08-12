@@ -190,3 +190,15 @@ footer a {
     display: block;
     margin: 0 auto;
 }
+
+/*telefonito*/
+.contact-info p {
+    display: flex;
+    align-items: center;
+  }
+  
+  .contact-info img {
+    width: 24px;  
+    height: 24px; 
+    margin-right: 8px;  
+  }
